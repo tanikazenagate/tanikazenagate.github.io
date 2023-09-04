@@ -1,0 +1,4 @@
+Game_name:欢迎使用WebGAL！;
+Game_key:8p5s0t6d;
+Title_img:title+010+000.png;
+Title_bgm:bgm_normal09.ogg;
